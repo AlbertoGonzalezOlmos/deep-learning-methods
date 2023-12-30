@@ -30,25 +30,22 @@ Libraries:
 
 Use of the library OpenCV to perform simple image manipulations:
 
-<ul>
-Pixel Transformations:
+**Pixel Transformations:**
 
 <li>Histograms </li>
 <li>Intensity Transformations</li>
 <li>Thresholding and Simple Segmentation </li>
 
-Geometric Operations:
+**Geometric Operations:**
 
 <li>Scaling </li>
 <li>Translation </li>
 <li>Rotation </li>
 
-Mathematical Operations:
+**Mathematical Operations:**
 
 <li>Array Operations </li>
 <li>Matix Operations </li>
-
-</ul>
 
 Libraries:
 
