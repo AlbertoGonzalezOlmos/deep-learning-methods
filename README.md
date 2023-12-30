@@ -33,21 +33,18 @@ Use of the library OpenCV to perform simple image manipulations:
 <ul>
 Pixel Transformations:
 
-<ul>
 <li>Histograms </li>
 <li>Intensity Transformations</li>
 <li>Thresholding and Simple Segmentation </li>
 
 Geometric Operations:
 
-<ul>
 <li>Scaling </li>
 <li>Translation </li>
 <li>Rotation </li>
 
 Mathematical Operations:
 
-<ul>
 <li>Array Operations </li>
 <li>Matix Operations </li>
 
